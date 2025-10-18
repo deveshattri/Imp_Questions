@@ -174,8 +174,3 @@ Output: 3
 
 ---
 
-**Commit message:**  
-`Added solution for 778. Swim in Rising Water with explanation and C++ code`
-
-**Description:**  
-Included problem statement, algorithm explanation, complexity analysis, and a full C++ solution in a single markdown file.
